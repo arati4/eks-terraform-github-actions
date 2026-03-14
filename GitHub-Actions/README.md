@@ -10,6 +10,8 @@
 
 > Whenever you push code, create a pull request, or tag a release — GitHub Actions can automatically do tasks like testing, packaging, or deploying your app 🚀.
 
+git status
+
 ---
 
 # 🌟 **Benefits of GitHub Actions**
@@ -23,7 +25,10 @@
 | 🔒 **Secure Secrets Management** | Store tokens, keys, and passwords in GitHub Secrets safely.                                              |
 | 🔄 **Parallel & Matrix Builds**  | Test your code on multiple OS or versions simultaneously.                                                |
 | 📦 **Integration Ready**         | Works seamlessly with AWS, Azure, Docker, Slack, Kubernetes, etc.                                        |
-| 💰 **Free for Public Repos**     | You get free minutes for open-source projects.                                                           |
+| 💰 **Free for Public Repos**     | You get free minutes for open-source projects. 
+
+
+                                                          |
 
 ---
 
