@@ -40,6 +40,10 @@ GitHub Actions uses **Workflows**, defined in YAML, to describe automation pipel
 
 ### 🧩 **1️⃣ Workflow File**
 
+
+
+
+
 * A **workflow** is a `.yml` file inside:
   `.github/workflows/your-workflow.yml`
 
